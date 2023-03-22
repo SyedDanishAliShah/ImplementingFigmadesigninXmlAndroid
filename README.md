@@ -1,4 +1,4 @@
-# Implementing Figmadesign in Xml Android
+# Implementing Figma design in Xml Android
 
 This project is a showcase of how to implement UI/UX design in an Android app using Figma as the design tool. The purpose of this project is to encourage collaboration and code sharing by sharing the source code on GitHub.
 
